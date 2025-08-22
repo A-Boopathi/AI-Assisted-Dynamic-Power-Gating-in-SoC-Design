@@ -34,5 +34,5 @@ Unlike traditional static power-gating, which is inefficient under variable work
 - **Simulation**: Xilinx Vivado  
 - **Synthesis**: Vivado Synthesis  
 - **Power Analysis**: Vivado Power Estimator   
-- **ML Development**: Python ( TensorFlow Lite)  
+- **ML Development**: Python   
 
