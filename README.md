@@ -1,7 +1,7 @@
 # AI-Assisted-Dynamic-Power-Gating-in-SoC-Design
 AI-powered SoC design with dynamic power gating to reduce runtime leakage power.
 
-## 📌 Project Overview
+## Project Overview
 This project implements an **AI-assisted dynamic power-gating technique** for minimizing **runtime leakage power** in **System-on-Chip (SoC)** designs.  
 Unlike traditional static power-gating, which is inefficient under variable workloads, this design integrates a **lightweight ML model** into the power controller to predict idle blocks and gate their supply dynamically — reducing leakage without performance loss.
 
